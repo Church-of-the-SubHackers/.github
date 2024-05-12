@@ -1,6 +1,6 @@
-# Church of the Subhacks (CSH)
+# Church of the SubHacker (CSH)
 
-Welcome to the Church of the Subhacks (CSH), a sanctuary for the curious minds of the digital realm. We are a vibrant community of old hackers dedicated to fostering a new generation of hackers, makers, nerds, red teamers, blue teamers, gamers, programmers, and technical revolutionaries. Our mission is to create a platform where aspiring tech aficionados can learn, grow, network, and hone their skills to navigate and shape the cyber world.
+Welcome to the Church of the SubHacker (CSH), a sanctuary for the curious minds of the digital realm. We are a vibrant community of old hackers dedicated to fostering a new generation of hackers, makers, nerds, red teamers, blue teamers, gamers, programmers, and technical revolutionaries. Our mission is to create a platform where aspiring tech aficionados can learn, grow, network, and hone their skills to navigate and shape the cyber world.
 
 ## Our Vision
 
@@ -14,7 +14,7 @@ We envision a world where the pursuit of knowledge and the exploration of the di
 
 ## Join Us
 
-Are you ready to dive into the world of hacking where challenges are just opportunities in disguise? Are you prepared to push the limits of what you can do with technology? If yes, then the Church of the Subhacks is your new home.
+Are you ready to dive into the world of hacking where challenges are just opportunities in disguise? Are you prepared to push the limits of what you can do with technology? If yes, then the Church of the SubHacker is your new home.
 
 Together, we are not just a group of individuals; we are a force. We are the dreamers, the doers, the future. Join us in shaping a world where technology empowers and elevates humanity.
 
